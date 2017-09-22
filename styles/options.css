@@ -1,0 +1,38 @@
+.error {
+  color: red;
+  float: left;
+  font-weight: bold;
+  margin: 10px;
+}
+.success {
+  float: left;
+  color: green;
+  margin: 10px;
+}
+.main-container {
+  align-items: right;
+}
+.field {
+  margin: 20px 10px;
+  display: inline-block;
+}
+.field input {
+  margin-left: 8px;
+  margin-right: 4px;
+  width: 45px;
+  border-radius: 3px;
+  border: 1px solid #bbb;
+  padding: 5px;
+}
+.suffix {
+  color: gray;
+}
+.btn {
+  float: right;
+  margin: 10px;
+  background-color: #63a3e7;
+  color: #fff;
+  border: 0;
+  padding: 5px 20px;
+  border-radius: 3px;
+}
